@@ -1,4 +1,5 @@
-Focus on you murali.
+Foucs on you murali.
+
 ---
   - name: Playbook
     hosts: webservers
